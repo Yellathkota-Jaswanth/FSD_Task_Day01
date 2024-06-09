@@ -23,7 +23,7 @@ JavaScript also supports prototypal inheritance, a mechanism by which objects ca
 	Conclusion
 Objects are the building blocks of JavaScript, providing a flexible and powerful means of organizing and manipulating data. Understanding the internal representation of objects and how they work within the language is essential for mastering JavaScript development.
 
-In this blog post, we've explored the basics of objects in JavaScript, including their internal representation, property access and manipulation, methods, and prototypal inheritance. Armed with this knowledge, you're better equipped to leverage the full potential of objects in your JavaScript projects.
+In this blog post, we've explored the basics of objects in JavaScript, including their internal representation, property access and manipulation, methods, and prototypal inheritance. Armed with this knowledge, you're better equipped to leverage the full potential of objects in your JavaScript project.
 
 
-#
+
